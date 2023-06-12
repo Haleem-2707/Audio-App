@@ -71,13 +71,12 @@ p{
  @media only screen and (max-width: 768px) {
 
 
-
     
  .container {
    
     background-image: url(music-background.jpg);
     text-align: center;
-    height: 746px;
+    height: 720px;
     width: 100%;
     margin-top: -20px;
     
